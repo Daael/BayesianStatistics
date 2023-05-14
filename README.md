@@ -1,2 +1,2 @@
 # BayesianStatistics
- Repor for the class "Introduction to Bayesian Statistics"
+ Repo for the class "Introduction to Bayesian Statistics"
